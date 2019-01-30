@@ -19,9 +19,9 @@ My projects
 - CSS animation and transition
 
 # [coursElf](https://github.com/NUKCSIE110/coursElf)
+![dynamic timeline](https://i.imgur.com/ndCbCuA.png)
 ![course list](https://imgur.dcard.tw/8qdIJQf.jpg)
 ![my course](https://imgur.dcard.tw/QgdG81A.jpg)
-![dynamic timeline](https://i.imgur.com/ndCbCuA.png)
 - Frontend
     - Use svg.js to implement complex element
     - Spent lot's of time in RWD tuning
