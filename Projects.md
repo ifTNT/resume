@@ -1,14 +1,27 @@
 My projects
 ===
 
+# SimpleOJ
+- github: [Web part](https://github.com/NUKCSIE110/SimpleOj_Web), [Judger part](https://github.com/NUKCSIE110/SimpleOj_Judger)
+- Language:
+    - Web: Ruby & Javascript
+    - Judger: Go
+- Use MVC architecture
+- Judger maintian a job queue and a bunch of job runner
+- Realtime scoreboard
+- Markdown+MathJax as problem parser
+- Consume time limitation
+
 # [TerminalMario](https://github.com/ifTNT/TerminalMario)
+![screenshot](https://i.imgur.com/lTjdOwP.png)
 - OOP final project
 - spent 2 days
 - Language: C++
-- Multi thread
+- STL multi thread
 - ncurses
 
 # [Pusheeeeeeeeeeeen](https://github.com/ifTNT/Pusheeeeeeeeeeeen)
+![screenshot](https://i.imgur.com/2mXsoPSg.png)
 - Web programing final project
 - spent 2 days
 - Without framework and jQuery.
@@ -26,12 +39,14 @@ My projects
     - Use svg.js to implement complex element
     - Spent lot's of time in RWD tuning
     - Use fetch api
+    - Use jade as template generator
 
 - Backend
     - nodejs+express
     - mongoDB (mongoose)
     - Behavior Driven Development
     - Use mocha and TravisCI
+    - MVC architecture
     - ES6 promise
     - ES6 async/await
     - Use custom recursive parser to classify the course
