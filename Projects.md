@@ -34,3 +34,4 @@ My projects
     - Use mocha and TravisCI
     - ES6 promise
     - ES6 async/await
+    - Use custom recursive parser to classify the course
