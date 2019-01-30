@@ -14,6 +14,10 @@ My projects
 
 # [TerminalMario](https://github.com/ifTNT/TerminalMario)
 ![screenshot](https://i.imgur.com/lTjdOwP.png)
+- Co-working with my classmates
+    - Planing whole architecture
+    - Game engine programming
+- Micro-kernel-like architecture
 - OOP final project
 - spent 2 days
 - Language: C++
@@ -22,6 +26,9 @@ My projects
 
 # [Pusheeeeeeeeeeeen](https://github.com/ifTNT/Pusheeeeeeeeeeeen)
 ![screenshot](https://i.imgur.com/2mXsoPSg.png)
+- Co-working with my clssmates
+    - Frotend develop & RWD
+    - Game develop
 - Web programing final project
 - spent 2 days
 - Without framework and jQuery.
