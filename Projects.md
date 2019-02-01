@@ -50,6 +50,8 @@ My projects
         - Spent lot's of time in RWD tuning
         - Use fetch api
         - Use jade as template generator
+        - Progressive web app
+        - Service Worker
 
     - Backend
         - nodejs+express
